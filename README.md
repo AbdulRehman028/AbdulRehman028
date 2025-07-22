@@ -9,7 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Passionate+about+Data+%26+Code;Building+Smart+and+Scalable+Solutions;Turning+Ideas+into+Products" alt="Typing SVG" />
 
 </p>
-
 </br>
 
 # 👨‍💻 About Me
