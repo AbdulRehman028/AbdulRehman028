@@ -23,6 +23,7 @@
 - 🌱 I’m currently learning **Generative AI**, **ML Ops**, and **Agentic Ai**  
 - 💬 Ask me about **data pipelines**, **React apps**, **Flutter development**, or **AI model deployment** 
 - ⚡ Fun fact: I started in web dev, fell in love with data, and now I build apps that think!
+  </br>
 ### 📫 Let's Connect
 
 <p align="left">
@@ -32,7 +33,7 @@
   <a href="dev.abdulrehman6@gmail.com">
     <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="48" height="48"/>
   </a>
-  <a href="https://www.linkedin.com/in/a-rehman-baig-228685239/">
+  <a href="https://www.linkedin.com/in/abdur-rehman-baig/">
     <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="48" height="48"/>
   </a>
 </p>
