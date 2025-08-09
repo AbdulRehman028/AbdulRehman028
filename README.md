@@ -1,6 +1,5 @@
 <h1 align="center">Hi<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Abdul Rehman Baig</h1>
 
-
 <p align="center">
   🚀 Data Scientist | 🌐 Web & App Developer | 💡 Lifelong Learner
 </p>
@@ -9,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Passionate+about+Data+%26+Code;Building+Smart+and+Scalable+Solutions;Turning+Ideas+into+Products" alt="Typing SVG" />
 
 </p>
-</br>
 
 # 👨‍💻 About Me
 
