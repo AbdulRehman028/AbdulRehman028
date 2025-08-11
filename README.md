@@ -25,9 +25,9 @@
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="#">
+<!--   <a href="#">
     <img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="Portfolio" width="48" height="48"/>
-  </a>
+  </a> -->
   <a href="dev.abdulrehman6@gmail.com">
     <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="48" height="48"/>
   </a>
