@@ -92,10 +92,10 @@
 ## 🏅 Certifications
 
 - 📜 [Meta Front-End Developer – Coursera | Meta](https://www.coursera.org/account/accomplishments/professional-cert/2WPGM4G5U4PN)
-- 📜 Google Data Analytics Professional Certificate – Coursera
-- 📜 Gen Ai Engenier - Coursera
+- 📜 [AI Engineering – IBM | Coursera](https://www.coursera.org/account/accomplishments/professional-cert/88M0S10ISHZW)
+- 📜 [IBM Generative AI Engineering IBM | Coursera](https://coursera.org/share/e2c1f1501642fd58100846ce578e03cb)
 - 📜 Flutter Developer Certificate – Coursera
-- 📜 IBM Data Science Certificate
+- 📜 
 
 ---
 
