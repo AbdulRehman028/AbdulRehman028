@@ -91,7 +91,7 @@
 
 ## 🏅 Certifications
 
-- 📜 IBM Data Science Professional Certificate – Coursera
+- 📜 [Meta Front-End Developer – Coursera | Meta](https://www.coursera.org/account/accomplishments/professional-cert/2WPGM4G5U4PN)
 - 📜 Google Data Analytics Professional Certificate – Coursera
 - 📜 Gen Ai Engenier - Coursera
 - 📜 Flutter Developer Certificate – Coursera
