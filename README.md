@@ -94,8 +94,9 @@
 - 📜 [Meta Front-End Developer – Coursera | Meta](https://www.coursera.org/account/accomplishments/professional-cert/2WPGM4G5U4PN)
 - 📜 [AI Engineering – IBM | Coursera](https://www.coursera.org/account/accomplishments/professional-cert/88M0S10ISHZW)
 - 📜 [IBM Generative AI Engineering IBM | Coursera](https://coursera.org/share/e2c1f1501642fd58100846ce578e03cb)
-- 📜 Flutter Developer Certificate – Coursera
-- 📜 
+- 📜 [iOS and Android Mobile App Developer – IBM | Coursera | SkillUp](https://www.coursera.org/account/accomplishments/professional-cert/QOYM08MI0L6U)
+- 📜 [Large Language Model Operations (LLMOps) - Coursera | DUKE University](https://www.coursera.org/account/accomplishments/specialization/FDZS0TYJ2081)
+- 📜 [MLOps | Machine Learning Operations | Coursera | DUKE University](https://www.coursera.org/account/accomplishments/specialization/3FC21MJFSPJ8)
 
 ---
 
