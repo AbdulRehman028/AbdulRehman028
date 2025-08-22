@@ -115,7 +115,6 @@
 
 > 404: Joke not found.
 
-<p align="center">💡 <i>“I turn coffee ☕ into code 💻 and bugs 🐛 into features.”</i></p>
 
 <p align="center">
   🚀 _“Code is not just lines on a screen, it's the language of the future.”_
