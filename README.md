@@ -1,7 +1,7 @@
 <h1 align="center">Hi<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Abdul Rehman Baig</h1>
 
 <p align="center">
-  🚀 Data Scientist | 🌐 Web & App Developer | 💡 Lifelong Learner
+  🚀 Data Scientist | 🌐 Web & App Developer | 💡 Quick Learner
 </p>
 
 <p align="center">
